@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\miss\Desktop\externo\externo\main.cpp(65,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(65,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(65,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(65,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(66,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(66,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(66,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(66,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo\externo\main.cpp(15,10): warning C4101: 'posLocal': unreferenced local variable
+  Generating code
+  2 of 24 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  externo.vcxproj -> C:\Users\miss\Desktop\externo\Release\externo.exe

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(65,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(65,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(65,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(65,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(66,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(66,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(66,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(66,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(15,10): warning C4101: 'posLocal': unreferenced local variable
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(180,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miss\Desktop\externo - Copy\externo\main.cpp(158,10): warning C4101: 'screenheadpos': unreferenced local variable
+  externo.vcxproj -> C:\Users\miss\Desktop\externo - Copy\Debug\externo.exe
